@@ -60,302 +60,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="17842f03-ad13-4baa-bbbd-ef4393cc273c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/.anim_abc_fade_in.xml 3.flat.icloud" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/.anim_abc_fade_out.xml 3.flat.icloud" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/.anim_abc_shrink_fade_out_from_bottom.xml 3.flat.icloud" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/.anim_abc_slide_in_bottom.xml 2.flat.icloud" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/.anim_abc_slide_in_top.xml 2.flat.icloud" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/.anim_abc_tooltip_enter.xml 2.flat.icloud" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/.anim_btn_checkbox_to_checked_box_outer_merged_animation.xml 3.flat.icloud" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/.anim_btn_checkbox_to_checked_icon_null_animation.xml 2.flat.icloud" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/.anim_btn_checkbox_to_unchecked_box_inner_merged_animation.xml 3.flat.icloud" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/.anim_btn_checkbox_to_unchecked_check_path_merged_animation.xml 3.flat.icloud" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/.anim_btn_checkbox_to_unchecked_icon_null_animation.xml 3.flat.icloud" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/.anim_btn_radio_to_off_mtrl_ring_outer_animation.xml 3.flat.icloud" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/.anim_btn_radio_to_off_mtrl_ring_outer_path_animation.xml 2.flat.icloud" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/.anim_btn_radio_to_on_mtrl_ring_outer_animation.xml 2.flat.icloud" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/.color-v23_abc_color_highlight_material.xml 2.flat.icloud" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/.color-v23_abc_tint_default.xml 2.flat.icloud" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/.color-v23_abc_tint_edittext.xml 2.flat.icloud" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/.color-v23_abc_tint_switch_track.xml 2.flat.icloud" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/.color_abc_background_cache_hint_selector_material_dark.xml 2.flat.icloud" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/.color_abc_hint_foreground_material_dark.xml 3.flat.icloud" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/.color_abc_hint_foreground_material_light.xml 2.flat.icloud" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/.color_abc_primary_text_material_light.xml 2.flat.icloud" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/.color_abc_search_url_text.xml 2.flat.icloud" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/.color_abc_secondary_text_material_dark.xml 2.flat.icloud" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/.color_abc_secondary_text_material_light.xml 3.flat.icloud" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/.drawable-hdpi-v4_abc_ab_share_pack_mtrl_alpha.9.png 3.flat.icloud" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/.drawable-hdpi-v4_abc_btn_radio_to_on_mtrl_000.png 3.flat.icloud" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/.drawable-hdpi-v4_abc_btn_radio_to_on_mtrl_015.png 2.flat.icloud" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/.drawable-hdpi-v4_abc_btn_switch_to_on_mtrl_00012.9.png 2.flat.icloud" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/.drawable-hdpi-v4_abc_cab_background_top_mtrl_alpha.9.png 3.flat.icloud" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/.drawable-hdpi-v4_abc_ic_commit_search_api_mtrl_alpha.png 2.flat.icloud" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/.drawable-hdpi-v4_abc_ic_menu_paste_mtrl_am_alpha.png 2.flat.icloud" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/.drawable-hdpi-v4_abc_ic_menu_selectall_mtrl_alpha.png 3.flat.icloud" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/.drawable-hdpi-v4_abc_ic_menu_share_mtrl_alpha.png 2.flat.icloud" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/.drawable-hdpi-v4_abc_ic_star_black_16dp.png 3.flat.icloud" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/.drawable-hdpi-v4_abc_ic_star_half_black_16dp.png 2.flat.icloud" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/.drawable-hdpi-v4_abc_ic_star_half_black_36dp.png 3.flat.icloud" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/.drawable-hdpi-v4_abc_ic_star_half_black_48dp.png 2.flat.icloud" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/.drawable-hdpi-v4_abc_list_divider_mtrl_alpha.9.png 2.flat.icloud" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/.drawable-hdpi-v4_abc_list_focused_holo.9.png 2.flat.icloud" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/.drawable-hdpi-v4_abc_list_pressed_holo_light.9.png 2.flat.icloud" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/.drawable-hdpi-v4_abc_menu_hardkey_panel_mtrl_mult.9.png 3.flat.icloud" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/.drawable-hdpi-v4_abc_popup_background_mtrl_mult.9.png 3.flat.icloud" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/.drawable-hdpi-v4_abc_scrubber_control_off_mtrl_alpha.png 3.flat.icloud" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/.drawable-hdpi-v4_abc_scrubber_control_to_pressed_mtrl_005.png 3.flat.icloud" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/.drawable-hdpi-v4_abc_scrubber_primary_mtrl_alpha.9.png 3.flat.icloud" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/.drawable-hdpi-v4_abc_scrubber_track_mtrl_alpha.9.png 3.flat.icloud" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/.drawable-hdpi-v4_abc_spinner_mtrl_am_alpha.9.png 2.flat.icloud" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/.drawable-hdpi-v4_abc_tab_indicator_mtrl_alpha.9.png 2.flat.icloud" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/.drawable-hdpi-v4_abc_text_select_handle_left_mtrl_dark.png 2.flat.icloud" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/.drawable-hdpi-v4_abc_text_select_handle_left_mtrl_light.png 2.flat.icloud" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/.drawable-hdpi-v4_abc_text_select_handle_middle_mtrl_dark.png 2.flat.icloud" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/.drawable-hdpi-v4_abc_text_select_handle_middle_mtrl_light.png 3.flat.icloud" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/.drawable-hdpi-v4_abc_textfield_default_mtrl_alpha.9.png 3.flat.icloud" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/.drawable-hdpi-v4_abc_textfield_search_default_mtrl_alpha.9.png 3.flat.icloud" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/.drawable-hdpi-v4_notification_bg_normal.9.png 3.flat.icloud" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/.drawable-hdpi-v4_notification_bg_normal_pressed.9.png 3.flat.icloud" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/.drawable-hdpi-v4_notify_panel_notification_icon_bg.png 3.flat.icloud" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/.drawable-hdpi_ic_launcher.png 3.flat.icloud" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/.drawable-ldrtl-hdpi-v17_abc_ic_menu_copy_mtrl_am_alpha.png 3.flat.icloud" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/.drawable-ldrtl-hdpi-v17_abc_spinner_mtrl_am_alpha.9.png 2.flat.icloud" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/.drawable-ldrtl-mdpi-v17_abc_ic_menu_copy_mtrl_am_alpha.png 2.flat.icloud" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/.drawable-ldrtl-mdpi-v17_abc_ic_menu_cut_mtrl_alpha.png 3.flat.icloud" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/.drawable-ldrtl-mdpi-v17_abc_spinner_mtrl_am_alpha.9.png 3.flat.icloud" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/.drawable-ldrtl-xhdpi-v17_abc_ic_menu_copy_mtrl_am_alpha.png 2.flat.icloud" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/.drawable-ldrtl-xhdpi-v17_abc_ic_menu_cut_mtrl_alpha.png 2.flat.icloud" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/.drawable-ldrtl-xhdpi-v17_abc_spinner_mtrl_am_alpha.9.png 2.flat.icloud" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/.drawable-ldrtl-xxhdpi-v17_abc_ic_menu_cut_mtrl_alpha.png 2.flat.icloud" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/.drawable-ldrtl-xxxhdpi-v17_abc_ic_menu_copy_mtrl_am_alpha.png 2.flat.icloud" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/.drawable-mdpi-v4_abc_btn_check_to_on_mtrl_000.png 3.flat.icloud" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/.drawable-mdpi-v4_abc_btn_check_to_on_mtrl_015.png 2.flat.icloud" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/.drawable-mdpi-v4_abc_btn_radio_to_on_mtrl_015.png 3.flat.icloud" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/.drawable-mdpi-v4_abc_btn_switch_to_on_mtrl_00001.9.png 2.flat.icloud" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/.drawable-mdpi-v4_abc_cab_background_top_mtrl_alpha.9.png 2.flat.icloud" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/.drawable-mdpi-v4_abc_ic_commit_search_api_mtrl_alpha.png 3.flat.icloud" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/.drawable-mdpi-v4_abc_ic_menu_copy_mtrl_am_alpha.png 3.flat.icloud" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/.drawable-mdpi-v4_abc_ic_menu_cut_mtrl_alpha.png 2.flat.icloud" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/.drawable-mdpi-v4_abc_ic_menu_paste_mtrl_am_alpha.png 2.flat.icloud" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/.drawable-mdpi-v4_abc_ic_menu_selectall_mtrl_alpha.png 3.flat.icloud" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/.drawable-mdpi-v4_abc_ic_menu_share_mtrl_alpha.png 2.flat.icloud" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/.drawable-mdpi-v4_abc_ic_star_half_black_16dp.png 3.flat.icloud" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/.drawable-mdpi-v4_abc_list_divider_mtrl_alpha.9.png 2.flat.icloud" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/.drawable-mdpi-v4_abc_list_focused_holo.9.png 2.flat.icloud" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/.drawable-mdpi-v4_abc_list_longpressed_holo.9.png 3.flat.icloud" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/.drawable-mdpi-v4_abc_list_pressed_holo_dark.9.png 2.flat.icloud" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/.drawable-mdpi-v4_abc_list_pressed_holo_light.9.png 3.flat.icloud" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/.drawable-mdpi-v4_abc_list_selector_disabled_holo_dark.9.png 2.flat.icloud" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/.drawable-mdpi-v4_abc_menu_hardkey_panel_mtrl_mult.9.png 2.flat.icloud" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/.drawable-mdpi-v4_abc_popup_background_mtrl_mult.9.png 3.flat.icloud" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/.drawable-mdpi-v4_abc_scrubber_control_off_mtrl_alpha.png 2.flat.icloud" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/.drawable-mdpi-v4_abc_scrubber_control_to_pressed_mtrl_000.png 2.flat.icloud" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/.drawable-mdpi-v4_abc_scrubber_control_to_pressed_mtrl_005.png 3.flat.icloud" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/.drawable-mdpi-v4_abc_scrubber_track_mtrl_alpha.9.png 2.flat.icloud" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/.drawable-mdpi-v4_abc_text_select_handle_left_mtrl_dark.png 2.flat.icloud" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/.drawable-mdpi-v4_abc_text_select_handle_middle_mtrl_dark.png 2.flat.icloud" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/.drawable-mdpi-v4_abc_text_select_handle_middle_mtrl_light.png 2.flat.icloud" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/.drawable-mdpi-v4_abc_text_select_handle_right_mtrl_dark.png 3.flat.icloud" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/.drawable-mdpi-v4_abc_textfield_activated_mtrl_alpha.9.png 2.flat.icloud" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/.drawable-mdpi-v4_abc_textfield_search_default_mtrl_alpha.9.png 3.flat.icloud" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/.drawable-mdpi-v4_notification_bg_normal_pressed.9.png 3.flat.icloud" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/.drawable-mdpi_ic_launcher.png 3.flat.icloud" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/.drawable-v21_abc_btn_colored_material.xml 3.flat.icloud" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/.drawable-v21_abc_dialog_material_background.xml 2.flat.icloud" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/.drawable-v21_abc_edit_text_material.xml 2.flat.icloud" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/.drawable-xhdpi-v4_abc_ab_share_pack_mtrl_alpha.9.png 3.flat.icloud" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/.drawable-xhdpi-v4_abc_btn_check_to_on_mtrl_015.png 2.flat.icloud" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/.drawable-xhdpi-v4_abc_btn_radio_to_on_mtrl_015.png 3.flat.icloud" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/.drawable-xhdpi-v4_abc_btn_switch_to_on_mtrl_00012.9.png 3.flat.icloud" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/.drawable-xhdpi-v4_abc_ic_menu_copy_mtrl_am_alpha.png 3.flat.icloud" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/.drawable-xhdpi-v4_abc_ic_menu_cut_mtrl_alpha.png 2.flat.icloud" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/.drawable-xhdpi-v4_abc_ic_menu_share_mtrl_alpha.png 2.flat.icloud" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/.drawable-xhdpi-v4_abc_ic_star_black_16dp.png 3.flat.icloud" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/.drawable-xhdpi-v4_abc_ic_star_black_36dp.png 3.flat.icloud" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/.drawable-xhdpi-v4_abc_ic_star_black_48dp.png 2.flat.icloud" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/.drawable-xhdpi-v4_abc_ic_star_half_black_16dp.png 3.flat.icloud" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/.drawable-xhdpi-v4_abc_ic_star_half_black_36dp.png 2.flat.icloud" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/.drawable-xhdpi-v4_abc_ic_star_half_black_48dp.png 3.flat.icloud" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/.drawable-xhdpi-v4_abc_list_focused_holo.9.png 2.flat.icloud" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/.drawable-xhdpi-v4_abc_list_pressed_holo_dark.9.png 3.flat.icloud" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/.drawable-xhdpi-v4_abc_scrubber_primary_mtrl_alpha.9.png 3.flat.icloud" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/.drawable-xhdpi-v4_abc_spinner_mtrl_am_alpha.9.png 3.flat.icloud" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/.drawable-xhdpi-v4_abc_switch_track_mtrl_alpha.9.png 2.flat.icloud" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/.drawable-xhdpi-v4_abc_tab_indicator_mtrl_alpha.9.png 3.flat.icloud" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/.drawable-xhdpi-v4_abc_text_select_handle_left_mtrl_dark.png 2.flat.icloud" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/.drawable-xhdpi-v4_abc_text_select_handle_left_mtrl_light.png 2.flat.icloud" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/.drawable-xhdpi-v4_abc_text_select_handle_middle_mtrl_dark.png 2.flat.icloud" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/.drawable-xhdpi-v4_abc_textfield_default_mtrl_alpha.9.png 3.flat.icloud" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/.drawable-xhdpi-v4_abc_textfield_search_activated_mtrl_alpha.9.png 2.flat.icloud" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/.drawable-xhdpi-v4_notification_bg_low_pressed.9.png 2.flat.icloud" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/.drawable-xhdpi-v4_notification_bg_normal.9.png 2.flat.icloud" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/.drawable-xhdpi-v4_notify_panel_notification_icon_bg.png 2.flat.icloud" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/.drawable-xhdpi_ic_launcher.png 3.flat.icloud" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/.drawable-xxhdpi-v4_abc_btn_check_to_on_mtrl_000.png 2.flat.icloud" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/.drawable-xxhdpi-v4_abc_btn_check_to_on_mtrl_015.png 3.flat.icloud" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/.drawable-xxhdpi-v4_abc_btn_radio_to_on_mtrl_000.png 2.flat.icloud" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/.drawable-xxhdpi-v4_abc_btn_radio_to_on_mtrl_015.png 3.flat.icloud" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/.drawable-xxhdpi-v4_abc_btn_switch_to_on_mtrl_00001.9.png 3.flat.icloud" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/.drawable-xxhdpi-v4_abc_ic_menu_copy_mtrl_am_alpha.png 3.flat.icloud" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/.drawable-xxhdpi-v4_abc_ic_menu_cut_mtrl_alpha.png 3.flat.icloud" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/.drawable-xxhdpi-v4_abc_ic_menu_paste_mtrl_am_alpha.png 2.flat.icloud" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/.drawable-xxhdpi-v4_abc_ic_star_black_16dp.png 2.flat.icloud" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/.drawable-xxhdpi-v4_abc_ic_star_black_36dp.png 3.flat.icloud" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/.drawable-xxhdpi-v4_abc_ic_star_black_48dp.png 2.flat.icloud" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/.drawable-xxhdpi-v4_abc_ic_star_half_black_36dp.png 2.flat.icloud" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/.drawable-xxhdpi-v4_abc_ic_star_half_black_48dp.png 3.flat.icloud" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/.drawable-xxhdpi-v4_abc_list_focused_holo.9.png 2.flat.icloud" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/.drawable-xxhdpi-v4_abc_list_pressed_holo_dark.9.png 3.flat.icloud" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/.drawable-xxhdpi-v4_abc_menu_hardkey_panel_mtrl_mult.9.png 3.flat.icloud" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/.drawable-xxhdpi-v4_abc_scrubber_control_to_pressed_mtrl_005.png 2.flat.icloud" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/.drawable-xxhdpi-v4_abc_scrubber_track_mtrl_alpha.9.png 2.flat.icloud" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/.drawable-xxhdpi-v4_abc_spinner_mtrl_am_alpha.9.png 2.flat.icloud" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/.drawable-xxhdpi-v4_abc_switch_track_mtrl_alpha.9.png 2.flat.icloud" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/.drawable-xxhdpi-v4_abc_text_select_handle_left_mtrl_dark.png 2.flat.icloud" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/.drawable-xxhdpi-v4_abc_text_select_handle_left_mtrl_light.png 2.flat.icloud" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/.drawable-xxhdpi-v4_abc_text_select_handle_middle_mtrl_dark.png 3.flat.icloud" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/.drawable-xxhdpi-v4_abc_text_select_handle_middle_mtrl_light.png 2.flat.icloud" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/.drawable-xxhdpi-v4_abc_textfield_search_activated_mtrl_alpha.9.png 3.flat.icloud" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/.drawable-xxhdpi_ic_launcher.png 3.flat.icloud" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/.drawable-xxxhdpi-v4_abc_btn_check_to_on_mtrl_000.png 2.flat.icloud" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/.drawable-xxxhdpi-v4_abc_btn_radio_to_on_mtrl_000.png 2.flat.icloud" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/.drawable-xxxhdpi-v4_abc_ic_menu_cut_mtrl_alpha.png 3.flat.icloud" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/.drawable-xxxhdpi-v4_abc_ic_menu_paste_mtrl_am_alpha.png 2.flat.icloud" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/.drawable-xxxhdpi-v4_abc_ic_menu_selectall_mtrl_alpha.png 3.flat.icloud" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/.drawable-xxxhdpi-v4_abc_ic_star_black_16dp.png 2.flat.icloud" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/.drawable-xxxhdpi-v4_abc_ic_star_black_36dp.png 2.flat.icloud" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/.drawable-xxxhdpi-v4_abc_ic_star_black_48dp.png 2.flat.icloud" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/.drawable-xxxhdpi-v4_abc_scrubber_control_to_pressed_mtrl_000.png 2.flat.icloud" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/.drawable-xxxhdpi-v4_abc_scrubber_control_to_pressed_mtrl_005.png 2.flat.icloud" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/.drawable-xxxhdpi-v4_abc_tab_indicator_mtrl_alpha.9.png 3.flat.icloud" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/.drawable-xxxhdpi-v4_abc_text_select_handle_left_mtrl_dark.png 2.flat.icloud" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/.drawable-xxxhdpi-v4_abc_text_select_handle_left_mtrl_light.png 3.flat.icloud" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/.drawable-xxxhdpi-v4_abc_text_select_handle_right_mtrl_light.png 2.flat.icloud" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/.drawable_abc_btn_check_material.xml 2.flat.icloud" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/.drawable_abc_btn_default_mtrl_shape.xml 2.flat.icloud" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/.drawable_abc_btn_radio_material.xml 3.flat.icloud" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/.drawable_abc_btn_radio_material_anim.xml 2.flat.icloud" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/.drawable_abc_cab_background_top_material.xml 3.flat.icloud" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/.drawable_abc_ic_ab_back_material.xml 2.flat.icloud" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/.drawable_abc_ic_arrow_drop_right_black_24dp.xml 2.flat.icloud" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/.drawable_abc_ic_clear_material.xml 2.flat.icloud" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/.drawable_abc_ic_go_search_api_material.xml 2.flat.icloud" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/.drawable_abc_ic_menu_overflow_material.xml 2.flat.icloud" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/.drawable_abc_ic_search_api_material.xml 3.flat.icloud" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/.drawable_abc_ic_voice_search_api_material.xml 2.flat.icloud" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/.drawable_abc_item_background_holo_dark.xml 3.flat.icloud" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/.drawable_abc_item_background_holo_light.xml 2.flat.icloud" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/.drawable_abc_list_selector_background_transition_holo_dark.xml 2.flat.icloud" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/.drawable_abc_list_selector_background_transition_holo_light.xml 2.flat.icloud" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/.drawable_abc_list_selector_holo_light.xml 2.flat.icloud" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/.drawable_abc_ratingbar_indicator_material.xml 3.flat.icloud" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/.drawable_abc_seekbar_track_material.xml 2.flat.icloud" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/.drawable_abc_spinner_textfield_background_material.xml 2.flat.icloud" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/.drawable_abc_switch_thumb_material.xml 2.flat.icloud" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/.drawable_btn_checkbox_checked_mtrl.xml 2.flat.icloud" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/.drawable_btn_checkbox_checked_to_unchecked_mtrl_animation.xml 2.flat.icloud" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/.drawable_btn_checkbox_unchecked_mtrl.xml 2.flat.icloud" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/.drawable_btn_checkbox_unchecked_to_checked_mtrl_animation.xml 2.flat.icloud" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/.drawable_btn_radio_off_mtrl.xml 2.flat.icloud" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/.drawable_btn_radio_off_to_on_mtrl_animation.xml 2.flat.icloud" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/.drawable_btn_radio_on_mtrl.xml 2.flat.icloud" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/.drawable_btn_radio_on_to_off_mtrl_animation.xml 2.flat.icloud" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/.drawable_ic_camera_alt_white_24dp.xml 3.flat.icloud" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/.drawable_ic_photo_album_white_24dp.xml 3.flat.icloud" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/.drawable_tooltip_frame_light.xml 2.flat.icloud" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/.interpolator_btn_checkbox_checked_mtrl_animation_interpolator_0.xml 2.flat.icloud" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/.interpolator_btn_checkbox_checked_mtrl_animation_interpolator_1.xml 2.flat.icloud" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/.interpolator_btn_checkbox_unchecked_mtrl_animation_interpolator_0.xml 2.flat.icloud" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/.interpolator_btn_checkbox_unchecked_mtrl_animation_interpolator_1.xml 2.flat.icloud" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/.interpolator_btn_radio_to_off_mtrl_animation_interpolator_0.xml 2.flat.icloud" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/.layout-v21_notification_action_tombstone.xml 2.flat.icloud" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/.layout-v21_notification_template_custom_big.xml 3.flat.icloud" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/.layout-v21_notification_template_icon_group.xml 3.flat.icloud" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/.layout-watch-v20_abc_alert_dialog_button_bar_material.xml 3.flat.icloud" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/.layout-watch-v20_abc_alert_dialog_title_material.xml 3.flat.icloud" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/.layout_abc_action_bar_title_item.xml 3.flat.icloud" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/.layout_abc_action_bar_up_container.xml 2.flat.icloud" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/.layout_abc_action_menu_item_layout.xml 2.flat.icloud" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/.layout_abc_action_menu_layout.xml 3.flat.icloud" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/.layout_abc_action_mode_close_item_material.xml 3.flat.icloud" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/.layout_abc_activity_chooser_view_list_item.xml 3.flat.icloud" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/.layout_abc_alert_dialog_button_bar_material.xml 3.flat.icloud" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/.layout_abc_alert_dialog_material.xml 3.flat.icloud" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/.layout_abc_alert_dialog_title_material.xml 3.flat.icloud" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/.layout_abc_cascading_menu_item_layout.xml 3.flat.icloud" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/.layout_abc_dialog_title_material.xml 2.flat.icloud" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/.layout_abc_expanded_menu_layout.xml 2.flat.icloud" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/.layout_abc_list_menu_item_layout.xml 3.flat.icloud" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/.layout_abc_popup_menu_header_item_layout.xml 2.flat.icloud" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/.layout_abc_popup_menu_item_layout.xml 3.flat.icloud" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/.layout_abc_screen_simple.xml 3.flat.icloud" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/.layout_abc_screen_simple_overlay_action_mode.xml 3.flat.icloud" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/.layout_abc_search_dropdown_item_icons_2line.xml 2.flat.icloud" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/.layout_abc_select_dialog_material.xml 3.flat.icloud" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/.layout_activity_main.xml 3.flat.icloud" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/.layout_notification_template_part_chronometer.xml 2.flat.icloud" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/.layout_select_dialog_item_material.xml 3.flat.icloud" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/.layout_select_dialog_singlechoice_material.xml 3.flat.icloud" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/.layout_support_simple_spinner_dropdown_item.xml 2.flat.icloud" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/.menu_menu_main.xml 3.flat.icloud" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/.values-af_values-af.arsc 3.flat.icloud" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/.values-ar_values-ar.arsc 3.flat.icloud" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/.values-b+sr+Latn_values-b+sr+Latn.arsc 3.flat.icloud" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/.values-bg_values-bg.arsc 3.flat.icloud" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/.values-bn_values-bn.arsc 3.flat.icloud" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/.values-ca_values-ca.arsc 2.flat.icloud" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/.values-da_values-da.arsc 2.flat.icloud" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/.values-en-rCA_values-en-rCA.arsc 3.flat.icloud" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/.values-en-rGB_values-en-rGB.arsc 3.flat.icloud" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/.values-en-rIN_values-en-rIN.arsc 3.flat.icloud" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/.values-en-rXC_values-en-rXC.arsc 3.flat.icloud" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/.values-es-rUS_values-es-rUS.arsc 3.flat.icloud" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/.values-et_values-et.arsc 2.flat.icloud" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/.values-fa_values-fa.arsc 3.flat.icloud" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/.values-fr-rCA_values-fr-rCA.arsc 3.flat.icloud" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/.values-fr_values-fr.arsc 3.flat.icloud" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/.values-gl_values-gl.arsc 3.flat.icloud" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/.values-gu_values-gu.arsc 3.flat.icloud" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/.values-hdpi-v4_values-hdpi-v4.arsc 2.flat.icloud" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/.values-hi_values-hi.arsc 3.flat.icloud" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/.values-hu_values-hu.arsc 3.flat.icloud" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/.values-hy_values-hy.arsc 3.flat.icloud" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/.values-is_values-is.arsc 3.flat.icloud" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/.values-kk_values-kk.arsc 3.flat.icloud" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/.values-km_values-km.arsc 3.flat.icloud" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/.values-ko_values-ko.arsc 3.flat.icloud" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/.values-ky_values-ky.arsc 2.flat.icloud" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/.values-ldltr-v21_values-ldltr-v21.arsc 2.flat.icloud" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/.values-lo_values-lo.arsc 3.flat.icloud" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/.values-lv_values-lv.arsc 3.flat.icloud" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/.values-ml_values-ml.arsc 3.flat.icloud" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/.values-ms_values-ms.arsc 3.flat.icloud" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/.values-my_values-my.arsc 3.flat.icloud" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/.values-night-v8_values-night-v8.arsc 2.flat.icloud" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/.values-nl_values-nl.arsc 2.flat.icloud" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/.values-pl_values-pl.arsc 3.flat.icloud" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/.values-pt-rPT_values-pt-rPT.arsc 3.flat.icloud" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/.values-pt_values-pt.arsc 3.flat.icloud" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/.values-ro_values-ro.arsc 3.flat.icloud" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/.values-ru_values-ru.arsc 3.flat.icloud" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/.values-sl_values-sl.arsc 3.flat.icloud" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/.values-sv_values-sv.arsc 3.flat.icloud" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/.values-te_values-te.arsc 3.flat.icloud" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/.values-tl_values-tl.arsc 3.flat.icloud" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/.values-uz_values-uz.arsc 2.flat.icloud" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/.values-v18_values-v18.arsc 2.flat.icloud" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/.values-v21_values-v21.arsc 3.flat.icloud" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/.values-v22_values-v22.arsc 2.flat.icloud" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/.values-v23_values-v23.arsc 3.flat.icloud" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/.values-v24_values-v24.arsc 2.flat.icloud" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/.values-v25_values-v25.arsc 2.flat.icloud" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/.values-v26_values-v26.arsc 2.flat.icloud" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/.values-vi_values-vi.arsc 3.flat.icloud" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/.values-watch-v20_values-watch-v20.arsc 3.flat.icloud" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/.values-zh-rCN_values-zh-rCN.arsc 3.flat.icloud" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/.values-zh-rHK_values-zh-rHK.arsc 3.flat.icloud" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/.values_values.arsc 3.flat.icloud" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -418,7 +123,7 @@
         <entry file="file://$PROJECT_DIR$/app/build.gradle">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="375">
-              <caret line="25" column="42" lean-forward="true" selection-start-line="25" selection-start-column="42" selection-end-line="25" selection-end-column="42" />
+              <caret line="25" column="42" selection-start-line="25" selection-start-column="42" selection-end-line="25" selection-end-column="42" />
             </state>
           </provider>
         </entry>
@@ -481,8 +186,8 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="411" />
-    <option name="y" value="38" />
+    <option name="x" value="128" />
+    <option name="y" value="31" />
     <option name="width" value="1400" />
     <option name="height" value="963" />
   </component>
@@ -638,52 +343,51 @@
               <item name="VizAssist" type="b2602c69:ProjectViewProjectNode" />
               <item name="VizAssist" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="app" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="build" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="VizAssist" type="b2602c69:ProjectViewProjectNode" />
               <item name="VizAssist" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="app" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="build" type="462c0819:PsiDirectoryNode" />
-              <item name="generated" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="VizAssist" type="b2602c69:ProjectViewProjectNode" />
               <item name="VizAssist" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="app" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="build" type="462c0819:PsiDirectoryNode" />
-              <item name="generated" type="462c0819:PsiDirectoryNode" />
-              <item name="source" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="VizAssist" type="b2602c69:ProjectViewProjectNode" />
               <item name="VizAssist" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="app" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="build" type="462c0819:PsiDirectoryNode" />
-              <item name="generated" type="462c0819:PsiDirectoryNode" />
-              <item name="source" type="462c0819:PsiDirectoryNode" />
-              <item name="buildConfig" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="VizAssist" type="b2602c69:ProjectViewProjectNode" />
-              <item name="VizAssist" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="app" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="build" type="462c0819:PsiDirectoryNode" />
-              <item name="generated" type="462c0819:PsiDirectoryNode" />
-              <item name="source" type="462c0819:PsiDirectoryNode" />
-              <item name="buildConfig" type="462c0819:PsiDirectoryNode" />
-              <item name="debug" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="VizAssist" type="b2602c69:ProjectViewProjectNode" />
-              <item name="VizAssist" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="app" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="build" type="462c0819:PsiDirectoryNode" />
-              <item name="generated" type="462c0819:PsiDirectoryNode" />
-              <item name="source" type="462c0819:PsiDirectoryNode" />
-              <item name="buildConfig" type="462c0819:PsiDirectoryNode" />
-              <item name="debug" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="vizassist" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="VizAssist" type="b2602c69:ProjectViewProjectNode" />
+              <item name="VizAssist" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="app" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="vizassist" type="462c0819:PsiDirectoryNode" />
+              <item name="imagepipeline" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="VizAssist" type="b2602c69:ProjectViewProjectNode" />
+              <item name="VizAssist" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="app" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="vizassist" type="462c0819:PsiDirectoryNode" />
+              <item name="utilities" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -803,7 +507,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="411" y="38" width="1400" height="963" extended-state="0" />
+    <frame x="128" y="31" width="1400" height="963" extended-state="0" />
     <layout>
       <window_info id="Captures" order="0" side_tool="true" weight="0.25" />
       <window_info content_ui="combo" id="Project" order="1" visible="true" weight="0.23564065" />
@@ -1001,7 +705,7 @@
     <entry file="file://$PROJECT_DIR$/app/build.gradle">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="375">
-          <caret line="25" column="42" lean-forward="true" selection-start-line="25" selection-start-column="42" selection-end-line="25" selection-end-column="42" />
+          <caret line="25" column="42" selection-start-line="25" selection-start-column="42" selection-end-line="25" selection-end-column="42" />
         </state>
       </provider>
     </entry>
